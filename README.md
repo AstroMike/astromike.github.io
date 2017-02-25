@@ -1,2 +1,3 @@
 # astromike.github.io
-AstroMike Web pages
+
+Nothing to see here - move along.
